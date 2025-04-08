@@ -1,4 +1,4 @@
-**#Deploying Staticwebsite and Creating Chatbot for it Using Azure AI Services**
+![storageaccount](https://github.com/user-attachments/assets/52963f18-9093-4461-ba90-93256adcbd1f)**#Deploying Staticwebsite and Creating Chatbot for it Using Azure AI Services**
 
 
 #shiva Hospital
@@ -35,7 +35,8 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-- ![storage account ss](./gitimages\storageaccount.png)
+- ![storage account ss](./[Uploading storageaccount.png…]
+
 
 
 # Container
