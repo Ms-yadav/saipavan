@@ -1,4 +1,4 @@
-![storageaccount](https://github.com/user-attachments/assets/52963f18-9093-4461-ba90-93256adcbd1f)**#Deploying Staticwebsite and Creating Chatbot for it Using Azure AI Services**
+Creating Chatbot for it Using Azure AI Services**
 
 
 #shiva Hospital
