@@ -35,7 +35,7 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-- ![storage account ss](./gitimages/storageaccount.png)
+- ![storage account ss](./gitimages/storageaccount1.jpg)
 
 
 
